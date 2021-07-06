@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require('express');
 const session = require('express-session');
 const BookData = require('./src/model/Bookdata');
@@ -499,3 +500,4 @@ app.listen(3000, function(){
     console.log('listening to port 3000');
 });
 
+>>>>>>> ee80e4251bc9fa467bbc8123b1de416941a286f5
